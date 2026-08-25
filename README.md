@@ -22,12 +22,13 @@ I am a Computer Engineering graduate from Jamia Millia Islamia, focused on bridg
 
 ---
 
-### 📊 GitHub Profile Stats
-- **Total Repositories:** Active Open Source Projects (Chess Engine & DDPM MetaHuman Pipeline)
-- **Primary Languages:** Python, C++
-- **Focus:** Deep Learning, Generative AI, Computational Physics
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=syedmuntaquakarim&theme=radical&hide_border=true&background=0D1117)](https://git.io/streak-stats)
+### 📊 Profile Overview
+- **Core Engineering:** Python & C++ Development
+- **Key Domains:** Deep Learning, Generative AI (DDPMs, Transformers), Computational Physics
+- **Open Source Projects:** 
+  - *Searchless Chess Engine* (34M Transformer)
+  - *Empathetic Digital Concierge* (30.3M DDPM for UE5 MetaHumans)
+- **Current Focus:** GATE Data Science & AI Preparation & Relativistic Physics Simulations
 
 ---
 
