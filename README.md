@@ -1,16 +1,35 @@
-## Hi there 👋
+# Hi there, I'm Syed Muntaqua Karim 👋
 
-<!--
-**syedmuntaquakarim/syedmuntaquakarim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🧠 AI/ML Engineer | Deep Learning, Python & C++, UE 5 | B.Tech Computer Engineering
 
-Here are some ideas to get you started:
+I am a Computer Engineering graduate from Jamia Millia Islamia, focused on bridging deep learning architectures with computational mathematics, procedural rendering, and physics simulations. I am currently preparing for the GATE Data Science & AI exam and executing a public build of complex AI systems.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🚀 What I'm Currently Working On
+- ♟️ **[Searchless Chess Engine (PyTorch)](https://github.com/syedmuntaquakarim/searchless-chess-pytorch)**: A 34M parameter Amortized Planning Transformer distilled from Stockfish 16, capable of predicting action-values without MCTS.
+- 🗣️ **[Empathetic Digital Concierge](https://github.com/syedmuntaquakarim/empathetic-digital-concierge)**: A 30.3M parameter Denoising Diffusion Probabilistic Model (DDPM) that synthesizes emotionally expressive, 260-dim ARKit blendshapes for UE5 MetaHumans directly from audio.
+- 🌌 **Computational Physics**: Translating parametric geometry into C++ and rendering 3D relativistic physics simulations (Raymarching & Black Hole mechanics).
+
+---
+
+### 🛠️ Tech Stack & Tools
+- **Core:** Python, C++, SQL
+- **AI/ML:** PyTorch, JAX, Denoising Diffusion Models, Transformers, Neural Networks
+- **Data Science:** NumPy, Pandas, Matplotlib, Scipy
+- **Graphics & Simulation:** Unreal Engine 5 (MetaHumans), Raymarching, Computational Mathematics
+- **Tools:** Git, GitHub, Linux, Jupyter
+
+---
+
+### 📈 GitHub Stats
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=syedmuntaquakarim&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=syedmuntaquakarim&layout=compact&theme=radical&hide_border=true&bg_color=0D1117" />
+</div>
+
+---
+
+### 📫 Let's Connect
+- **LinkedIn:** [linkedin.com/in/syedmuntaquakarim](https://www.linkedin.com/in/syedmuntaquakarim/)
+- **Email:** [Your Professional Email Here]
