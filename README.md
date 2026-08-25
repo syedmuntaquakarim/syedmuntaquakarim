@@ -32,4 +32,4 @@ I am a Computer Engineering graduate from Jamia Millia Islamia, focused on bridg
 
 ### 📫 Let's Connect
 - **LinkedIn:** [linkedin.com/in/syedmuntaquakarim](https://www.linkedin.com/in/syedmuntaquakarim/)
-- **Email:** [Your Professional Email Here]
+- **Email:** [syedmuntaquakarim@gmail.com]
