@@ -14,7 +14,7 @@ I am a Computer Engineering graduate from Jamia Millia Islamia, focused on bridg
 ---
 
 ### 🛠️ Tech Stack & Tools
-- **Core:** Python, C++, SQL
+- **Core:** Python, C/C++, SQL
 - **AI/ML:** PyTorch, JAX, Denoising Diffusion Models, Transformers, Neural Networks
 - **Data Science:** NumPy, Pandas, Matplotlib, Scipy
 - **Graphics & Simulation:** Unreal Engine 5 (MetaHumans), Raymarching, Computational Mathematics
