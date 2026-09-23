@@ -64,7 +64,9 @@ Exploring the intersection of mathematics, physics, and real-time rendering. Cur
 
 ### 🔥 Build Streak
 
-<img src="https://streak-stats.demolab.com/?user=syedmuntaquakarim&theme=dark&hide_border=true" alt="GitHub Streak Stats">
+<a href="https://git.io/streak-stats">
+  <img src="./profile/streak.svg" alt="GitHub Streak">
+</a>
 
 </div>
 
